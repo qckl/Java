@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12c08cd2-f405-4a7a-bc89-7e62a6758df7" name="Default Changelist" comment="" />
+    <list default="true" id="6785fe5b-edea-4302-9073-92ef48257e89" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +15,19 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectId" id="1XsZpu81nAZmdECo4FQZrq3bkJ4" />
+  <component name="ProjectId" id="1Z07zIWaOixWDonnGZq2IUtuVbx" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorld/src/com/javacourse" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,16 +49,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calc" />
-      <module name="Calckons" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calc" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -65,14 +67,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12c08cd2-f405-4a7a-bc89-7e62a6758df7" name="Default Changelist" comment="" />
-      <created>1581836948845</created>
+      <changelist id="6785fe5b-edea-4302-9073-92ef48257e89" name="Default Changelist" comment="" />
+      <created>1583964418954</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581836948845</updated>
-      <workItem from="1581836953977" duration="1975000" />
-      <workItem from="1582478861576" duration="443000" />
-      <workItem from="1582479677767" duration="2283000" />
+      <updated>1583964418954</updated>
+      <workItem from="1583964423747" duration="2048000" />
     </task>
     <servers />
   </component>
